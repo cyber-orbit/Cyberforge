@@ -17,6 +17,9 @@
 </p>
 
 ---
+<img width="1363" height="731" alt="Screenshot From 2026-03-17 16-55-54" src="https://github.com/user-attachments/assets/7d6e491e-135c-4161-8c16-29f57adee90b" />
+
+<img width="363" height="628" alt="Screenshot From 2026-03-17 16-56-26" src="https://github.com/user-attachments/assets/79d62575-8211-4d50-b882-5eb9ac63ce04" />
 
 ## ✨ Features
 
