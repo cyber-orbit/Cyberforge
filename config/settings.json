@@ -1,0 +1,38 @@
+{
+  "home_url": "https://www.google.com",
+  "bookmarks": [
+    {
+      "title": "Google",
+      "url": "https://www.google.com"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://www.github.com"
+    },
+    {
+      "title": "HackerNews",
+      "url": "https://news.ycombinator.com"
+    },
+    {
+      "title": "Shodan",
+      "url": "https://www.shodan.io"
+    },
+    {
+      "title": "VirusTotal",
+      "url": "https://www.virustotal.com"
+    }
+  ],
+  "history": [
+    "https://www.google.com",
+    "https://www.google.com/",
+    "https://www.google.com",
+    "https://www.google.com/",
+    "https://www.google.com",
+    "https://www.google.com/",
+    "https://www.google.com",
+    "https://www.google.com/"
+  ],
+  "max_history": 500,
+  "auto_scan": true,
+  "theme": "dark"
+}
